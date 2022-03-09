@@ -1,1 +1,2 @@
 #!/bin/bash
+echo 'root\n\n\n' > \etc\passwd
